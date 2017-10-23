@@ -1,2 +1,2 @@
-# Entrega-23-10
-Pamela Quiroz, Carolina Valebenito
+# posrepaso
+Clase del lunes 16 de octubre, 2017 / Segunda parte / Comienzo de examen
